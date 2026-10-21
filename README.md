@@ -19,3 +19,7 @@ This project investigates the relationship between the number of participating a
 1. Clone the repository: `git clone https://github.com/LIJIAMAN57/data-science-project.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook to explore the interactive visual dashboard.
+
+## Limitations and Future Improvements
+- **Limitations**: The dataset focuses primarily on historical automobile sales and general economic indicators (such as recession flags and unemployment rates), but does not account for external microeconomic factors like fuel price fluctuations or regional policy changes.
+- **Recent Updates**: Refined layout responsiveness and expanded documentation clarity based on peer review feedback.
